@@ -1,8 +1,12 @@
 *{
+
     margin: 0;
     font-family: 'Courier New', Courier, monospace;
 }
 
 body {
     background-color: aquamarine;
+
+    mask-border: 45;
+
 }
